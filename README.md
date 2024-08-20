@@ -9,8 +9,6 @@
   [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
   </br>
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/930621561294184462)](https://discord.com/users/930621561294184462)
-  
   </br>
   
   ### Achievements 🏆

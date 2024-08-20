@@ -5,8 +5,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/930621561294184462)](https://discord.com/users/930621561294184462)
 
   </br>
-  </br>
-  
+
   ### Languages
   [![Lua](https://img.shields.io/badge/lua-%23272937.svg?style=for-the-badge&logo=lua&logoColor=4F68EE)](https://www.lua.org/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-383025?style=for-the-badge&logo=javascript&logoColor=FBB03B)](https://www.javascript.com/)

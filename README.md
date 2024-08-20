@@ -1,7 +1,7 @@
 <div align="center">
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Internalization&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F0F0F&ring=DD2727&currStreakLabel=DD2727&fire=DD2727)</br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/930621561294184462?bg=0F0F0F)](https://discord.com/users/930621561294184462?animated=true&idleMessage=Questioning%20Life)
+[![Discord Presence](https://lanyard.cnrad.dev/api/930621561294184462)](https://discord.com/users/930621561294184462)
 
   </br>
   </br>

@@ -14,8 +14,8 @@
   </br>
   
   ### Achievements 🏆
-  [![WRO 2022](https://img.shields.io/badge/Participated_in-WRO_2022-FFD700?style=for-the-badge&logo=achievement&logoColor=red)](https://wro-association.org/)
-  [![WRO 2023](https://img.shields.io/badge/Participated_in-WRO_2023-FFD700?style=for-the-badge&logo=achievement&logoColor=pink)](https://wro-association.org/)
+  [![WRO 2022](https://img.shields.io/badge/National_Qualifier_in-WRO_2022-FFD700?style=for-the-badge&logo=achievement&logoColor=red)](https://wro-association.org/)
+  [![WRO 2023](https://img.shields.io/badge/International_Qualifier_in-WRO_2023-FFD700?style=for-the-badge&logo=achievement&logoColor=pink)](https://wro-association.org/)
   
   ### Specs [MAIN PC] 💻
   [![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6600_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.sapphiretech.com/en/consumer/nitro-rx-6600-xt-8g-gddr6)

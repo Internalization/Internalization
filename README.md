@@ -7,7 +7,7 @@
   </br>
 
   ### Languages
-[![HTML](https://img.shields.io/badge/HTML-362622?style=for-the-badge&logo=html5&logoColor=E44D26)](https://html.spec.whatwg.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
   </br>
   </br>

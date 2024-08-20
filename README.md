@@ -22,7 +22,6 @@
 [![CPU](https://img.shields.io/badge/Intel-Core_i7_7700K-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/products/sku/97128/intel-core-i77700k-processor-8m-cache-up-to-4-50-ghz/specifications.html)
 
   </br>
-    </br>
     
 ### OS
 [![WINDOWS](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows10&logoColor=white)](https://www.microsoft.com/en-us/windows)
